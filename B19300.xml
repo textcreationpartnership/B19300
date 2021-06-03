@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A league of union betwixt His Majesty, and the Estates General of the United Provinces of the Low-Countries for an efficacious mediation of peace between the two neighbouring crowns now in war.</title>
+            <title>Treaties, etc. United Provinces of the Netherlands, 1668 Jan 13.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19300</idno><idno type="EEBO-CITATION">19735740</idno>
+  <idno type="VID">205632</idno>
+  <idno type="EEBO-PROQUEST">2240869264</idno>
+  
+            <idno type="STC">Wing C3092</idno>
+            <idno type="OCLC">19735740</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205632)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A league of union betwixt His Majesty, and the Estates General of the United Provinces of the Low-Countries for an efficacious mediation of peace between the two neighbouring crowns now in war.</title>
+                  <title>Treaties, etc. United Provinces of the Netherlands, 1668 Jan 13.</title>
+                  <author>England and Wales.</author>
+                  <author>United Provinces of the Netherlands. Treaties, etc. England and Wales, 1668 Jan. 13.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M. DC. LXVIII. [1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205632:1"/>
+            <p>A LEAGUE OF UNION BETWIXT HIS MAJESTY, And the ESTATES GENERAL OF THE <hi>ƲNITED PROVINCES</hi> Of the Low-COUNTRIES, For an Efficacious Mediation of Peace be<g ref="char:EOLhyphen"/>tween the two Neighbouring Crowns now in VVar.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by His Majesties Command.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent Majesty, M.DC.LXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="league">
+            <pb facs="tcp:205632:2"/>
+            <pb n="3" facs="tcp:205632:2"/>
+            <head>A League of Ʋnion betwixt His Maje<g ref="char:EOLhyphen"/>sty, and the Estates General of the Ʋnited Provinces of the Low-Coun<g ref="char:EOLhyphen"/>treys; for an Efficacious Mediation of Peace between the two Neighbouring Crowns now in War.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He most Serene and most Mighty Prince and Lord, <hi>Charles</hi> the Second, King of <hi>Great Britain,</hi> and the High and Mighty Lords the States General of the <hi>United Netherlands,</hi> reflecting with much grief and trouble on the miseries and calamities of the War which is lately broken out in the Borders between the two Crowns, and which spreading its flame in the Neighbourhood, if not timely prevented, will by an inevitable consequence involve the greatest part of the Princes and States of Christendom in the same evils, have thought they should be much wanting to that duty God hath injoyned them, if now that they have by his mercy so happily renewed and restored the ancient Friend<g ref="char:EOLhyphen"/>ship and Alliance between <hi>Great Britain</hi> and the <hi>Uni<g ref="char:EOLhyphen"/>ted Netherlands,</hi> and at the same time established a
+<pb n="4" facs="tcp:205632:3"/> Peace between four powerful States, who were par<g ref="char:EOLhyphen"/>ties in that bloudy Warre, they should not employ, and with all diligence apply themselves to settle those differences that have arisen between the said two Crowns, and particularly for the quenching the flame of that Warre upon the Confines. And therefore the most Serene King of <hi>Great Britain,</hi> and the High and Mighty States of the <hi>Low-Countreys,</hi> having after much pains and great Instance, obtained from the most Christian King, a Promise to the said States General, That he will forthwith and from this time forward lay down his Arms, on condition the <hi>Spaniards</hi> be ready, formally and solemnly by a Treaty of Peace; to quit to him all those Places and Forts, together with the Chastellenyes and their Appurtenances, which he has by force of Armes taken in, or fortifi'd in the last years Expedition, or otherwise that the <hi>Spaniards</hi> be brought to transferr to him all the remainder of their Right to the <hi>Dutchy</hi> of <hi>Luxemburgh</hi> (or to the <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Burgundy</hi>) together with <hi>Cambray</hi> and <hi>Cambresis, Douay, Ayre, St. Omers, Bergue St. Winox, Fuernes,</hi> and <hi>Link,</hi> with the Bailywicks, Chastellenyes, and all other their dependencies, and in this last Case; the most Christian King to be obliged to restore to the King of <hi>Spain,</hi> all Places and Territories which the <hi>French</hi> have by their Armes taken since their entrance into <hi>Flanders,</hi> On this Condition. That the High and Mighty Lords the States General, do reciprocally undertake and secure to the most Christian King, that by reasons and other means they will prevail with the <hi>Spaniards</hi> to consent to the same Conditions: They have thought, that in this season and conjuncture of
+<pb n="5" facs="tcp:205632:3"/> affairs, they should employ themselves very advan<g ref="char:EOLhyphen"/>tagiously, not onely for the Interest of both the said Kings, but of all other neighbouring Princes and States, if by their joynt Counsels and endeavours they should exhort, and as much as in them lies, obliege the two before-mentioned Crowns, to make Peace upon the Articles and Conditions abovesaid: To which end, We whose Names are here subscribed, by virtue of our respective Powers, and in pursuance of our In<g ref="char:EOLhyphen"/>structions, have agreed upon these following Points and Articles.</p>
+            <list type="articles">
+               <label>I.</label>
+               <item>THat the King of <hi>Great Britain</hi> and the States General of the <hi>United Netherlands,</hi> joyntly or severally (but alwayes with communication of Coun<g ref="char:EOLhyphen"/>sels, and according to what shall be agreed on between them) use all possible diligence and industry with the most Christian King, to induce him by a solemn Treaty, in the best and most authentick Form, to pro<g ref="char:EOLhyphen"/>mise and engage to the King of <hi>Great Britain</hi> and the States General of the <hi>United Provinces,</hi> to make a Treaty of Peace with the King of <hi>Spain,</hi> without any Exception or Reserve for any cause or pretence what<g ref="char:EOLhyphen"/>soever, if the King of <hi>Spain</hi> can be induced or pre<g ref="char:EOLhyphen"/>vailed with by the King of <hi>Great Britain</hi> and the <hi>Uni<g ref="char:EOLhyphen"/>ted States,</hi> to quit to the most Christian King, either those places taken from them the last year by force of Armes in the <hi>Netherlands,</hi> or an Equivalent by the delivery of the places abovementioned, or some others
+<pb n="6" facs="tcp:205632:4"/> in stead thereof, according as the Parties concerned shall mutually agree between themselves.</item>
+               <label>II.</label>
+               <item>That the most Christian King consent to a Cessa<g ref="char:EOLhyphen"/>tion of Arms in the <hi>Netherlands</hi> till the end of <hi>May,</hi> that in the mean while the King of <hi>Great Britain</hi> and the <hi>United States</hi> may use their best endeavour and di<g ref="char:EOLhyphen"/>ligence with the King and Queen of <hi>Spain</hi> and their Council, to consent to the aforesaid Articles and Conditions.</item>
+               <label>III.</label>
+               <item>But that the most Christian King may not upon any just reason refuse the Cessation of Arms, the King of <hi>Great Britain</hi> and the <hi>United States</hi> shall ob<g ref="char:EOLhyphen"/>liege themselves by the same Treaty, that <hi>Spain</hi> shall quit to <hi>France</hi> all that the <hi>French</hi> Forces took from them the last year, or such Equivalent, as shall on both sides be agreed to.</item>
+               <label>IV.</label>
+               <item>That the most Christian King be induced and pre<g ref="char:EOLhyphen"/>vailed with, to rest satisfied in the aforesaid Promise, and to rely upon it; so, as not for the future to make any farther Warre in the <hi>Low-Countries:</hi> But if con<g ref="char:EOLhyphen"/>trary to all hopes and expectations, the King of <hi>Great Britain</hi> and the <hi>United States</hi> cannot by their instances and intreaties prevail with the <hi>Spaniards,</hi> before the
+<pb n="7" facs="tcp:205632:4"/> end of <hi>May</hi> next ensuing, to consent to the aforesaid Conditions, and that consequently it be necessary to come to wayes of more efficacy; nevertheless the <hi>French</hi> shall not make, or bring the War within or upon the Borders of the said <hi>Netherlands;</hi> but the King of <hi>Great Britain</hi> and the <hi>United States</hi> shall engage and undertake themselves to do whatever shall be necessa<g ref="char:EOLhyphen"/>ry effectually to obliege the <hi>Spaniards</hi> to accept of Peace upon the Conditions abovesaid; and so, it shall not be free for the most Christian King to exer<g ref="char:EOLhyphen"/>cise any Acts of Hostility in the said Countreys, nor to take any Town, though it should willingly surrender it self, unless the King of <hi>Great Britain</hi> and the <hi>United States</hi> forbear and omit to do what is abovemen<g ref="char:EOLhyphen"/>tioned.</item>
+               <label>V.</label>
+               <item>That upon a Peace made between the two Crowns, not onely the King of <hi>Great Britain</hi> and the <hi>United States</hi> shall be Warranties for it in the best, amplest and securest Form that may be, but also the Empe<g ref="char:EOLhyphen"/>rour, and all the Neighbouring Kings and Princes, who shall think it their interest to keep the Peace of Chri<g ref="char:EOLhyphen"/>stendom undisturbed, and to restore the <hi>Low-Countryes</hi> to their former tranquility. To which end the distinct number of military Forces shall be agreed upon, toge<g ref="char:EOLhyphen"/>ther with such other means as shall be fit to be used against either of the parties who shall break or violate the Peace, oblieging him to cease the violence, and re<g ref="char:EOLhyphen"/>pair the party injured.</item>
+               <pb n="8" facs="tcp:205632:5"/>
+               <label>VI.</label>
+               <item>All these Articles agreed upon, and all and every thing therein conteined, shall be confirmed and rati<g ref="char:EOLhyphen"/>fied by the said Lord the King of <hi>Great Britain,</hi> and the said Lords the States General of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces,</hi> by Letters Patents on each side, under their Great Seals, in due and authentick form, within the space of four weeks next ensuing, or sooner if it may be, and mutual Instruments of Ratification Exchanged within the same time.</item>
+            </list>
+            <closer>
+               <dateline>In witness of all and singular the things herein con<g ref="char:EOLhyphen"/>teined, and for the fuller corroboration of these Articles, We have hereunto set our Hands and Seals. At the <hi>Hague</hi> in <hi>Holland</hi>
+                  <date>Jan. 13/23 1668.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
